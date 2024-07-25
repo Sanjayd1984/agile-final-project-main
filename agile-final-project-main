@@ -1,0 +1,16 @@
+**As a user** 
+ **I need to add item in a cart** 
+ **So that i can checkout** 
+   
+ ### Details and Assumptions
+ * I already have login details
+items are available to add in cart
+
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given 
+ When 
+ Then 
+ ```
